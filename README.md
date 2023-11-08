@@ -1,5 +1,5 @@
 # Dataset-Narkotika_212_216
-Nama Anggota 1 : Deva Putra setya Pratama (202010370311212)
+Nama Anggota 1 : Deva Putra Setya Pratama (202010370311212)
 
 Nama Anggota 2 : Niko Silabest (202010370311216)
 
