@@ -1,6 +1,7 @@
 # Dataset-Narkotika_212_216
 
-Proyek ini adalah tentang scrapping dataset yang berisi putusan hukum terkait kasus Narkotika dan Psikotropika di Indonesia. Dataset ini diperoleh dengan melakukan _web scraping_ pada [Direktori Putusan Mahkamah Agung Republik Indonesia](https://putusan3.mahkamahagung.go.id/beranda.html). Dengan serch query sebagai berikut :
+Proyek ini adalah tentang scrapping dataset yang berisi putusan hukum terkait kasus Narkotika dan Psikotropika di Indonesia. Dataset ini diperoleh dengan melakukan _web scraping_ pada [Direktori Putusan Mahkamah Agung Republik Indonesia](https://putusan3.mahkamahagung.go.id/beranda.html). 
+Dengan serch query sebagai berikut :
 🔗 https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=097560PN65++++++++++++++++++++++&t_put=2022&t_reg=&t_upl=&t_pr=
 
 **Penjelasan Data :**
@@ -11,9 +12,9 @@ Proyek ini adalah tentang scrapping dataset yang berisi putusan hukum terkait ka
 - **Sumber Putusan:** Data putusan diambil dari Pengadilan Negeri (PN) Serang.
 - **Jumlah Dokumen:** Dataset yang berhasil diambil meliputi sebanyak 50 dokumen hukum dalam bentuk PDF.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepository)
+![GitHub last commit](https://img.shields.io/github/last-commit/212DevaPutra/Dataset-Narkotika_212_216)
+![GitHub stars](https://img.shields.io/github/stars/212DevaPutra/Dataset-Narkotika_212_216)
+![GitHub forks](https://img.shields.io/github/forks/212DevaPutra/Dataset-Narkotika_212_216)
 
 **Cara Menggunakan Dataset:**
 
