@@ -19,7 +19,7 @@ Dengan serch query sebagai berikut :
 **Cara Menggunakan Dataset:**
 
 1. Silakan _clone_ atau _download_ repository ini ke komputer Anda.
-2. Dataset PDF putusan tersedia di direktori `dataset/`.
+2. Dataset PDF putusan tersedia di direktori `Dataset/`.
 3. Anda dapat menggunakan berbagai alat untuk melakukan analisis atau pemrosesan lebih lanjut pada dataset ini.
 
 **Catatan:**
