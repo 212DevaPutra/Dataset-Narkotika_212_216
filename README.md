@@ -11,7 +11,7 @@ Dengan search query sebagai berikut :
 
 **Penjelasan Data :**
 
-- **Tahun Putusan:** Dataset ini hanya mencakup putusan hukum yang dikeluarkan pada tahun 2022.
+- **Tahun Putusan:** Dataset ini hanya mencakup putusan hukum yang dikeluarkan pada tahun 2022 (Jika terdapat tahun 2021 pada nomor putusan maka hal tersebut disebabkan oleh putusan yang terdaftar pada 2021 namun baru diputuskan pada tahun 2022).
 - **Direktori:** Dataset ini hanya mencakup direktori PIDANA KHUSUS
 - **Klasifikasi Putusan:** Dataset ini hanya mencakup putusan hukum yang berkaitan dengan kasus "Narkotika dan Psikotropika."
 - **Sumber Putusan:** Data putusan diambil dari Pengadilan Negeri (PN) Serang.
